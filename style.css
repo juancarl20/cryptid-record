@@ -203,7 +203,7 @@ a:hover { color: var(--stamp); }
 
 /* rubber stamp */
 .stamp {
-  position: absolute; top: 16px; right: -6px;
+  position: absolute; bottom: 18px; right: -4px;
   font-family: var(--mono); font-weight: 700; font-size: 12px;
   letter-spacing: 0.14em; text-transform: uppercase;
   color: var(--stamp); border: 2px solid var(--stamp);
